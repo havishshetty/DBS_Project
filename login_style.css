@@ -1,0 +1,24 @@
+/* body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 20%,
+    rgba(0, 212, 255, 1) 55%
+  );
+} */
+
+.login_card {
+  border: 1px solid rgb(135, 135, 135);
+  padding: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 10px;
+  background-color: whitesmoke;
+}
+
+footer {
+  background-color: white;
+}
